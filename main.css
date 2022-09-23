@@ -62,6 +62,9 @@ img{
     flex-direction: column;
     align-content: stretch;
 }
+.collapse{
+    color: #252525;
+}
 .head-top{
     display: flex;
     justify-content: space-between;
